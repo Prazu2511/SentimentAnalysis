@@ -108,7 +108,7 @@ plt.title('Sentiment Distribution')
 
 ---
 ## Results
-![Word Cloud](WordClous.png)
+![Word Cloud](WordCloud.png)
 
 
 
