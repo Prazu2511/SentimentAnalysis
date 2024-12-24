@@ -119,7 +119,7 @@ plt.title('Sentiment Distribution')
 ![Sentiment Distribution Pie chart](Senti_distri_pie.png)
 
 **Sentiment Distribution Analysis in Bar Chart Visualization:**
-![Sentiment Distribution Bar chart](Senti_distri_bar.png)
+![Sentiment Distribution Bar chart](Senti_dristi_bar.png)
 
 
 
