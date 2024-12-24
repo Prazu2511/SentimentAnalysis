@@ -108,7 +108,22 @@ plt.title('Sentiment Distribution')
 
 ---
 ## Results
+
+**Various Genres of books:**
+![Genres](Genres.png)
+
+**Word Cloud :**
 ![Word Cloud](WordCloud.png)
+
+**Sentiment Distribution Analysis in Pie Chart Visualization:**
+![Sentiment Distribution Pie chart](Senti_distri_pie.png)
+
+**Sentiment Distribution Analysis in Bar Chart Visualization:**
+![Sentiment Distribution Bar chart](Senti_distri_bar.png)
+
+
+
+
 
 
 
